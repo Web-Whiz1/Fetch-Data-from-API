@@ -17,9 +17,13 @@ To use this component in your project, follow these steps:
 1. Clone this repository or copy the component files to your React project.
 2. Install any necessary dependencies (if applicable).
 3. Import the `FetchData` component into your application.
+```bash
 import FetchData from './path/to/FetchData';
+```
 4.Use the component in your application:
+```jsx
 <FetchData />
+```
 
 ## Example Usage
 
